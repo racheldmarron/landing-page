@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+position: relative; 
+font-family: "futura", sans-serif; 
+font-size: 18px;
+background-color:floralwhite;
+color: white; 
+}
+
+
+header, 
+footer {
+    height: 80px;
+    width: 100%;
+    line-height: 60px;
+    color: white; 
+    font-family: "futura", sans-serif; 
+    font-size: 24px;
+    background-color: darkslategray;
+    text-align: center;
+}
+
+.headline {
+    color: red; 
+}
+
+.subhead {
+    color: rgb(65, 65, 65); 
+}
+
+}
+main {
+    padding-bottom: 20px;
+}
+nav {
+    display: block;
+}
+
+.list {
+    display: inline;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+img {
+    display: block;
+    margin: 20px auto; 
+    border: 15px solid darkslategray;
+    padding: 10px;
+    background-color: rgb(255, 35, 68); 
+}
+
+.image {
+    margin: 0 auto;
+}
+
+figure {
+    text-align: center;
+}
+
+.li {
+    margin-right: 20px
+}
+
+.signup {
+    text-align: center;
+    text-decoration: none;
+}
+
+button {
+    background-color: darkslategray; 
+    margin: 10px;
+    color: white;
+}
+
+section {
+    margin-bottom: 0px;
+    padding: 20px;
+    border: 0px darkslategray;
+    background-color: rgb(250, 142, 99);
+}
+
+.text {
+    text-align: center;
+}
